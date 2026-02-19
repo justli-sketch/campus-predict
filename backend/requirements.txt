@@ -1,0 +1,3 @@
+cd ~/campus-predict
+source venv/bin/activate
+pip freeze > backend/requirements.txt
